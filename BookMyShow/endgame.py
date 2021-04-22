@@ -12,9 +12,6 @@ def waitTime(t):
 		anil = 1
 	return
 
-# account_sid = "AC5e2b3364a1982f568939fa23ffd7ded4"i
-# auth_token  = "6bc20071e0a0071f52c9aab656034e57"
-# client = Client(account_sid, auth_token)
 bangalore_url = "https://in.bookmyshow.com/buytickets/avengers-endgame-bengaluru/movie-bang-ET00100668-MT/20190426"
 hyderabad_url = "https://in.bookmyshow.com/buytickets/avengers-endgame-hyderabad/movie-hyd-ET00100559-MT/20190426"
 
